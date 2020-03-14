@@ -6,7 +6,7 @@ enable_testing()
 
 add_library(leetcode
     code_94.cpp
-    code_94_test.cpp
+    code_123.cpp
     )
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
