@@ -19,5 +19,4 @@ public:
 
 TEST(Test_Code_123, test1)
 {
-    EXPECT_TRUE(false);
 }
