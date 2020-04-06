@@ -9,6 +9,8 @@ add_library(leetcode
     code_123.cpp
     code_4.cpp
     code_296.cpp
+    code_98.cpp
+    code_17.cpp
     )
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})

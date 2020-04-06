@@ -6,14 +6,14 @@ void call_code_94(){}
 
 /**
  * Definition for a binary tree node.
- */
-struct TreeNode
-{
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
+  struct TreeNode
+  {
+      int val;
+      TreeNode *left;
+      TreeNode *right;
+      TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+  };
+  */
 
 #include <vector>
 
